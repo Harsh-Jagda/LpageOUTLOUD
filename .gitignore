@@ -22,3 +22,6 @@ npm-debug.log*
 # Environment / secrets
 .env
 .env.*
+
+# Agent instructions
+AGENTS*.md
