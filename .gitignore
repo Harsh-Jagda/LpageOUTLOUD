@@ -25,3 +25,13 @@ npm-debug.log*
 
 # Agent instructions
 AGENTS*.md
+
+# Editor backup files
+*~
+*.un~
+
+# Social media asset generation (local only, not part of the site)
+build_*.py
+brand_images.py
+fonts/
+outputs/
