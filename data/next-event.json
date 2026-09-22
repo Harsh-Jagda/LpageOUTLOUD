@@ -2,9 +2,9 @@
   "date": "Thursday, Sept 24",
   "timeStart": "7:00 PM",
   "timeEnd": "9:00 PM",
-  "venueName": "",
-  "venueAddress": "",
-  "venueTbd": true,
+  "venueName": "The Hood by MamaHood",
+  "venueAddress": "API 1000, Block B, Umm Al Sheif, Dubai, UAE",
+  "venueTbd": false,
   "applyUrl": "https://tally.so/r/b5aADe",
   "applyDeadline": ""
 }
