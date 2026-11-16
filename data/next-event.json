@@ -1,10 +1,11 @@
 {
-  "date": "Thursday, Sept 24",
-  "timeStart": "7:00 PM",
-  "timeEnd": "9:00 PM",
-  "venueName": "The Hood by MamaHood",
-  "venueAddress": "API 1000, Block B, Umm Al Sheif, Dubai, UAE",
+  "date": "Thursday, Nov 19",
+  "timeStart": "6:30 PM",
+  "timeEnd": "8:30 PM",
+  "venueName": "Murdoch University Dubai",
+  "venueAddress": "Level 3 Auditorium, Dubai, UAE",
   "venueTbd": false,
+  "theme": "Unwritten Rules",
   "applyUrl": "https://tally.so/r/b5aADe",
   "applyDeadline": ""
 }

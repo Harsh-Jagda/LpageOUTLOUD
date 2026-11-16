@@ -51,6 +51,7 @@
 
   var venueTbd = document.getElementById("venue-tbd");
   var venueDetails = document.getElementById("venue-details");
+  var themeEl = document.getElementById("event-theme");
   var dateEl = document.getElementById("event-date");
   var timeEl = document.getElementById("event-time");
   var venueNameEl = document.getElementById("event-venue-name");
@@ -85,6 +86,7 @@
         if (venueTbd) venueTbd.hidden = true;
         if (venueDetails) venueDetails.hidden = false;
 
+        if (themeEl) themeEl.textContent = data.theme ? "Theme — " + data.theme : "";
         if (dateEl) dateEl.textContent = data.date;
         if (timeEl) {
           timeEl.textContent = (data.timeStart && data.timeEnd)

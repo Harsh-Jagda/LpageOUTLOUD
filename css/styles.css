@@ -628,6 +628,15 @@ h2 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin-bottom: 1.25rem; }
 .venue-time { font-size: 1.4rem; font-weight: 800; color: var(--white); }
 .venue-name { font-weight: 700; color: var(--cyan); margin-top: 0.5rem; }
 .venue-address { color: rgba(255, 255, 255, 0.85); margin-top: 0.2rem; }
+.venue-theme {
+  display: inline-block;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--coral);
+  margin-bottom: 0.5rem;
+}
 .venue-coming {
   color: rgba(255, 255, 255, 0.9);
   font-size: 1.05rem;
